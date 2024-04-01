@@ -120,7 +120,7 @@ Anaconda is a popular distribution of Python and R programming languages for sci
 mkdir AizynthF
 cd AizynthF
 git clone https://github.com/ChemSpaceAI/AizynthFinder_installation_guide.git
-cd AiznthFinder_installation_guide
+cd AizynthFinder_installation_guide
 ```
 
 6. Download the and unzip data, which includes trained models, policy, zinc and chemspace  stocks from zip file [Zip_File](data.zip) and move them into the newly created folder. (link to the zip file with stock will be attached to the message)
