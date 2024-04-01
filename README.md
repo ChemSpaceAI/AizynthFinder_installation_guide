@@ -119,16 +119,17 @@ Anaconda is a popular distribution of Python and R programming languages for sci
 ```bash
 mkdir AizynthF
 cd AizynthF
+git clone https://github.com/ChemSpaceAI/AizynthFinder_installation_guide.git
+cd AiznthFinder_installation_guide
 ```
 
-6. Download the  data, which includes trained models, policy, zinc and chemspace  stocks from zip file [Zip_File](data.zip) and move them into the newly created folder.
-
+6. Download the and unzip data, which includes trained models, policy, zinc and chemspace  stocks from zip file [Zip_File](data.zip) and move them into the newly created folder. (link to the zip wit stock)
 
 7. Generate the custom_file.yml by running the script:
 ```bash
 python generate_config.py
 ```
-8. The general structure of the directory `AizynthF` should look like this :
+8. The general structure of the main directory should look like this :
 
 ![alt text](images/image-05.png)
 
