@@ -161,6 +161,8 @@ jupyter-notebook
 
 Once opened, press the play button to start working with the program.
 
+(Note: It's preferable to use the second way of launching the tool)
+
 ## How to use the tool
 1. **Start the program**
 
