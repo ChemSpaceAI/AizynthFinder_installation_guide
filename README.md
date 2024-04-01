@@ -123,7 +123,7 @@ git clone https://github.com/ChemSpaceAI/AizynthFinder_installation_guide.git
 cd AiznthFinder_installation_guide
 ```
 
-6. Download the and unzip data, which includes trained models, policy, zinc and chemspace  stocks from zip file [Zip_File](data.zip) and move them into the newly created folder. (link to the zip wit stock)
+6. Download the and unzip data, which includes trained models, policy, zinc and chemspace  stocks from zip file [Zip_File](data.zip) and move them into the newly created folder. (link to the zip file with stock will be attached to the message)
 
 7. Generate the custom_file.yml by running the script:
 ```bash
